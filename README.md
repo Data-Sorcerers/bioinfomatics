@@ -98,7 +98,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For questions or suggestions, feel free to reach out to:
 
-- **Email**: your-email@example.com
+- **Email**: datasorcerers.id@gmail.com
 - **GitHub Issues**: [Open an Issue](https://github.com/yourusername/BioinformaticsToolkit/issues)
 
 Happy coding!
